@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Beer Adviser</string>
-    <string name="find_beer" />
-    <string name="beer_types">Beer types</string>
-    <string name="brands">No beer selected</string>
+    <string name="app_name" translatable="false">Beer Adviser</string>
+    <string name="find_beer" translatable="false" />
+    <string name="beer_types" translatable="false">Beer types</string>
+    <string name="brands" translatable="false">No beer selected</string>
     <string-array name="beer_colors">
         <item>Light</item>
         <item>Amber</item>
